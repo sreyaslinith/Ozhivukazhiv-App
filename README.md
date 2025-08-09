@@ -9,9 +9,8 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 2: [Sreyas Linith] - [Vidya academy of science and technology]
+- Member 3: [Aavani K Shine] - [Vidya academy of science and technology]
 
 ### Project Description
 [Useless Excuse Generator — The Ultimate Funny Excuse App
@@ -32,21 +31,8 @@ For Software:
 - [Libraries used- google-generativeai (Google Gemini API), pyngrok]
 - [Tools used-Google Colab, ngrok (for tunneling in Colab), GitHub (for version control and hosting)]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
