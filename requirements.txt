@@ -1,0 +1,4 @@
+google-generativeai
+pyngrok
+streamlit
+python-dotenv
